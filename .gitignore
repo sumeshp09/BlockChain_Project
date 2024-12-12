@@ -1,0 +1,18 @@
+# IDE-specific files
+.classpath
+.project
+.settings/
+
+# Build files
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Database scripts and sensitive data
+finla_db.sql
+
+# OS-specific files
+.DS_Store
+Thumbs.db
